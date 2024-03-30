@@ -8,17 +8,17 @@ export const aboutList1 = [
   {
     id: 1,
     description: 'Email',
-    value: 'juandelacruz@email.com',
+    value: 'budiepeds@gmail.com',
   },
   {
     id: 2,
     description: 'Phone',
-    value: '+639123456789',
+    value: '+639693152899',
   },
   {
     id: 3,
     description: 'City',
-    value: 'Baguio City',
+    value: 'Cebu City',
   },
 ];
 
@@ -31,7 +31,7 @@ export const aboutList2 = [
   {
     id: 2,
     description: 'Hobbies',
-    value: 'Basketball, Computer Games, Hiking',
+    value: 'Basketball, Computer Coding, Watching Movies',
   },
   {
     id: 3,

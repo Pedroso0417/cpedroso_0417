@@ -22,7 +22,7 @@ export const ContactForm = () => {
       <form
         className={css.form}
         // please use your own getform api here
-        action="https://getform.io/f/pbnveyob"
+        action="https://getform.io/f/ebpdmvdb"
         method="POST"
       >
         <div className={css.formWrap}>
@@ -31,7 +31,7 @@ export const ContactForm = () => {
               className={css.formInput}
               type="text"
               name="name"
-              placeholder="John Doe"
+              placeholder="your name"
               required
             />
             <span className={css.formLabel}>Name *</span>
@@ -42,7 +42,7 @@ export const ContactForm = () => {
               className={css.formInput}
               type="email"
               name="email"
-              placeholder="john_doe@email.com"
+              placeholder="your email"
               required
             />
             <span className={css.formLabel}>Email *</span>
