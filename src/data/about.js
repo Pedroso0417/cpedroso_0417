@@ -45,7 +45,7 @@ export const aboutList3 = [
     id: 1,
     school: 'STI',
     year: '2007',
-    course: 'Information Technology Associate',
+    course: 'Information Technology',
   },
   {
     id: 2,
