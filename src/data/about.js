@@ -43,21 +43,15 @@ export const aboutList2 = [
 export const aboutList3 = [
   {
     id: 1,
-    school: 'Hogwarts University',
-    year: '2006',
-    course: 'Elementary',
+    school: 'STI',
+    year: '2007',
+    course: 'Information Technology Associate',
   },
   {
     id: 2,
-    school: 'Hogwarts University',
-    year: '2012',
-    course: 'Senior High School',
-  },
-  {
-    id: 3,
-    school: 'Hogwarts University',
-    year: '2016',
-    course: 'Bachelor of Science in Computer Science',
+    school: 'GOIT',
+    year: '2024',
+    course: 'Full Stack Developer Crash Course',
   },
 ];
 export const aboutList4 = [
